@@ -4,12 +4,22 @@ Everybody is busy these days and have no time to purchase things What if we have
 This website is styled to serve the purpose of how a website can be made for lifestyle purposes
 
 The Azure technologies used are:
-1.Azure Bot
+1.Azure Static Webapp
 2.ServiceAzure Cognitive Search
 3.QnA Maker
 
-Azure App Service is a  Service that provides you with the tools and services needed to create reliable and scalable mission-critical Web Apps, Mobile Apps, API Apps, and Logic Apps in a single instance . Cognitive Services brings AI within reach of every developer and data scientist. With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand and accelerate advanced decision-making into your apps.Create a conversational question-and-answer layer over your existing data with question answering, an Azure Cognitive Service for Language feature.
-Build a knowledge base by adding unstructured documents or extracting questions and answers from your semi-structured content
+Azure Static Webapp:
+1.Web hosting for static content like HTML, CSS, JavaScript, and images.
+
+2.Integrated API support provided by Azure Functions with the option to link an existing Azure Functions app using a standard account.
+
+3.First-class GitHub and Azure DevOps integration where repository changes trigger builds and deployments.
+
+4.Globally distributed static content, putting content closer to your users.
+
+5.Free SSL certificates, which are automatically renewed.
+
+6.Custom domains to provide branded customizations to your app
 
 My github weproject url:
 https://github.com/VakkalagaddaAishwarya/frt/
