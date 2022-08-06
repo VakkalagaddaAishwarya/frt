@@ -12,7 +12,7 @@ Azure App Service is a  Service that provides you with the tools and services ne
 Build a knowledge base by adding unstructured documents or extracting questions and answers from your semi-structured content
 
 My github weproject url:
-https://github.com/VakkalagaddaAishwarya/Webproject
+https://github.com/VakkalagaddaAishwarya/frt/
 My Project Demo URL:
 
 
