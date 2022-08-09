@@ -24,6 +24,7 @@ Azure Static Webapp:
 My github weproject url:
 https://github.com/VakkalagaddaAishwarya/frt/
 My Project Demo URL:
+https://purple-forest-0f90c8c10.1.azurestaticapps.net
 
 
 ![Screenshot (1253)](https://user-images.githubusercontent.com/98083921/183256977-92d24e1b-ffd5-4372-8014-ebc5363d0bf5.png)
